@@ -11,6 +11,8 @@ You are presented with a greenfield project and tasked with the following:
 
 # Suggestions
 3) For steps (1), (2) and (3) consider how you would use CSS to improve the UI, particularly around mobile/tablet/desktop scaling (e.g. Media queries)
-4) Comments can be added to code to justify decisions taken/shortcuts for time/etc
-5) Where possible, consider making use of the app.settings file (E.g. for the URL in step 3)
-6) Evidence of dependency injection is preferable
+4) For steps (1), (2) and (3) consider how you would use JQuery and/or JavaScript to compliment the solution
+5) For step (1) consider showing evidence of validation
+6) Comments can be added to code to justify decisions taken/shortcuts for time/etc
+7) Where possible, consider making use of the app.settings file (E.g. for the URL in step 3)
+8) Evidence of dependency injection is preferable
